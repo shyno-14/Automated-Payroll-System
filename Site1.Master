@@ -1,0 +1,42 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site1.master.vb" Inherits="Employeepayroll.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Menu ID="Menu1" runat="server" Orientation="Horizontal">
+            <Items>
+                <asp:MenuItem Text="Employee" Value="Employee">
+                    <asp:MenuItem Text="EmployeeDetails" Value="EmployeeDetails"></asp:MenuItem>
+                    <asp:MenuItem Text="Position" Value="Position"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Attendance" Value="Attendance">
+                    <asp:MenuItem Text="EmployeeAttendance" Value="EmployeeAttendance"></asp:MenuItem>
+                    <asp:MenuItem Text="Leave" Value="Leave"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Location" Value="Location">
+                    <asp:MenuItem Text="EmployeeLocation" Value="EmployeeLocation"></asp:MenuItem>
+                </asp:MenuItem>
+                <asp:MenuItem Text="Salary" Value="Salary">
+                    <asp:MenuItem Text="SalaryDetails" Value="SalaryDetails"></asp:MenuItem>
+                    <asp:MenuItem Text="Allowance" Value="Allowance"></asp:MenuItem>
+                    <asp:MenuItem Text="Deduction" Value="Deduction"></asp:MenuItem>
+                    <asp:MenuItem Text="Overtime" Value="Overtime"></asp:MenuItem>
+                    <asp:MenuItem Text="TaxDeduction" Value="TaxDeduction"></asp:MenuItem>
+                </asp:MenuItem>
+            </Items>
+        </asp:Menu>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
