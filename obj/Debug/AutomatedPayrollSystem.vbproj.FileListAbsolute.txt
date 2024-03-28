@@ -1,0 +1,8 @@
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\bin\AutomatedPayrollSystem.dll
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\bin\AutomatedPayrollSystem.pdb
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\bin\AutomatedPayrollSystem.xml
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\obj\Debug\AutomatedPayrollSystem.Resources.resources
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\obj\Debug\AutomatedPayrollSystem.vbproj.GenerateResource.Cache
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\obj\Debug\AutomatedPayrollSystem.dll
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\obj\Debug\AutomatedPayrollSystem.xml
+c:\users\shyno\onedrive\documents\visual studio 2012\Projects\AutomatedPayrollSystem\AutomatedPayrollSystem\obj\Debug\AutomatedPayrollSystem.pdb
